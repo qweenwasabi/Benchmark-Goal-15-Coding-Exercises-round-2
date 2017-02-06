@@ -1,5 +1,5 @@
 # Benchmark-Goal-15-Coding-Exercises-round-2
-## Team Name:responsible-duck
+## Team Name: responsible-duck
 ## Team Member(s): Jacklyne Bouier
 ## Description
 Benchmark goals are projects that are designed to be done solo. 
